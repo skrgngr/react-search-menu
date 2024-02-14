@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "image":"https://yemek.com/_next/image/?url=https%3A%2F%2Fcdn.yemek.com%2Fmnresize%2F1250%2F833%2Fuploads%2F2021%2F03%2Fkedidili-tiramisu-yemekcom.jpg&w=1920&q=75",
+        "title":"Tiremusu",
+        "price":"120 TL"    
+    },
+    {
+        "id":2,
+        "image":"https://assets.tmecosys.com/image/upload/t_web600x528/img/recipe/ras/Assets/0DC866C5-9732-400D-839D-72280F56B69D/Derivates/876507DE-DF54-46D4-8769-0D5BC8EFA76D.jpg",
+        "title":"Pavlova",
+        "price":"120 TL"
+    },
+    {
+        "id":3,
+        "image":"https://i.lezzet.com.tr/images-xxlarge-recipe/kaymakli_kunefe-1fda980f-6b06-464f-8cbc-101155f01e3d.jpg",
+        "title":"Künefe",
+        "price":"120 TL"
+    },
+    {
+        "id":4,
+        "image":"https://cdn.ye-mek.net/App_UI/Img/out/650/2017/06/magnolia-resimli-yemek-tarifi(16).jpg",
+        "title":"Magnolya",
+        "price":"120 TL"
+    },
+    {
+        "id":5,
+        "image":"https://unluoglu.com.tr/img/big/12_burma_kadayif.jpg",
+        "title":"Burma Kadayım",
+        "price":"120 TL"
+    },
+    {
+        "id":6,
+        "image":"https://iaahbr.tmgrup.com.tr/560ce5/0/0/0/0/0/0?u=https://iahbr.tmgrup.com.tr/album/2019/05/07/lezzetli-ve-pratik-kazandibi-tarifi-1557237922436.jpg",
+        "title":"Kazandibi",
+        "price":"120 TL"
+    },
+    {
+        "id":7,
+        "image":"https://yemek.com/_next/image/?url=https%3A%2F%2Fcdn.yemek.com%2Fmncrop%2F940%2F625%2Fuploads%2F2019%2F04%2Flokanta-usulu-sutlac-tarifi.jpg&w=1920&q=75",
+        "title":"Sütlaç",
+        "price":"120 TL"
+    },
+    {
+        "id":8,
+        "image":"https://karebaklava.com.tr/upload/temp/urunler/-16005_w1044_h696.jpg",
+        "title":"Fıstık Sarma",
+        "price":"120 TL"
+    },
+    {
+        "id":9,
+        "image":"https://www.imamcagdas.com/ozel-sobiyet-sobiyet-cesitleri-imam-cagdas-271-29-O.jpg",
+        "title":"Şöbiyet",
+        "price":"120 TL"
+    },
+    {
+        "id":10,
+        "image":"https://emiroglubaklava.com.tr/wp-content/uploads/IMG_1023-600x600.jpg",
+        "title":"Fıstıklı Baklava",
+        "price":"120 TL"
+    }
+]
